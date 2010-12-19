@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Checkers!</string>
+    <string name="app_name">Checkers</string>
+    <string name="game_title">Checkers</string>
+    <string name="main_title">Welcome!</string>
+    <string name="continue_label">Continue Last Saved Game</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+    <string name="saveGame_title">Save Game</string>
+</resources>

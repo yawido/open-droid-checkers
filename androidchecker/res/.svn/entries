@@ -1,0 +1,49 @@
+10
+
+dir
+4
+http://ben@svn.emforge.net/svnroot/androidchecker/res
+http://ben@svn.emforge.net/svnroot/androidchecker
+
+
+
+2010-10-08T20:43:21.715327Z
+4
+doaaashour
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+737d21f8-f805-4264-91ec-d0cf763d5f7a
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
